@@ -23,5 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=som23git&show_icons=true&locale=en" alt="som23git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=som23git&" alt="som23git" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=som23git&" alt="som23git" /></p> -->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Som23Git)](https://git.io/streak-stats)
 
