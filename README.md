@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@somesh-rokz](https://medium.com/@somesh-rokz)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, GCP, Elastic, SQL, AWS**
+- 💬 Ask me about **HTML, CSS, JavaScript, GCP, Elastic, SQL, AWS, and Troubleshoot!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
