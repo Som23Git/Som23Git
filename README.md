@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@somesh-rokz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93936168/209452453-12f17afb-2de4-4248-aab1-f80ad5b95b91.png" alt="@somesh-rokz" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/somdevsupport/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93936168/209452452-5c89ce99-5637-4350-aca7-5f8b8793a040.png" alt="LinkedIn" height="40" width="40" /></a>
 </p>
 
 #### <h3 align="left">Languages and Tools:</h3>
