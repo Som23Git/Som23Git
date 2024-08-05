@@ -13,8 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://medium.com/@somesh-rokz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/93936168/209452453-12f17afb-2de4-4248-aab1-f80ad5b95b91.png" alt="@somesh-rokz" height="40" width="40" /></a>
-<a href="https://someshwaran.me" target="blank"><img align="center" src="https://github.com/user-attachments/assets/ba68585f-94c0-48d0-be19-37cb9d9bd2bf" alt="@somesh-rokz" height="40" width="40" /></a>
+<a href="https://medium.com/@somesh-rokz" target="blank"><img align="center" src="https://github.com/user-attachments/assets/44ca3e19-3262-44bb-a56f-8abfd4ed032f" alt="Medium_logo" height="40" width="40" /></a>
+<a href="https://someshwaran.me" target="blank"><img align="center" src="https://github.com/user-attachments/assets/20636234-1f1e-4f65-96f4-888176c31b3c" alt="website" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/somdevsupport/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/920a9053-c5e5-4fb1-a31a-14c619b95c18" alt="linkedin" height="40" width="40" /></a>
 </p>
 
 #### <h3 align="left">Languages and Tools:</h3>
